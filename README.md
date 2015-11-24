@@ -8,7 +8,7 @@ These tools are published by the SPDX Workgroup
 see [http://spdx.org/](http://spdx.org/)
 
 ## Contributing
-See the file CONTRIBUTING.md for information on making contributions to the SPDX tools.
+See the file [CONTRIBUTING.md](CONTRIBUTING.md) for information on making contributions to the SPDX tools.
 
 ## Syntax
 The command line interface of the spdx tools can be used like this:
